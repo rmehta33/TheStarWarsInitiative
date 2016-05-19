@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Rishuv\Documents\GitHub\BebopDronePilotingNewAPI\app\libs\libARDiscovery.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="dc20588427192798f411583207fc763bc35fbff9">
+        <dex dex="C:\Users\Rishuv\Documents\GitHub\BebopDronePilotingNewAPI\app\build\intermediates\pre-dexed\debug\libARDiscovery_14a36ae5d17663ebaef95191060fda87a8886f1c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rishuv\Documents\GitHub\BebopDronePilotingNewAPI\app\libs\sanselan-0.97-incubator.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8396778b076a2eaf62024b64f6d924e4e0095fca">
+        <dex dex="C:\Users\Rishuv\Documents\GitHub\BebopDronePilotingNewAPI\app\build\intermediates\pre-dexed\debug\sanselan-0.97-incubator_fb3abd52d316889ae7917d6a280531f2bb4e8930.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rishuv\Documents\GitHub\BebopDronePilotingNewAPI\wear\build\intermediates\exploded-aar\com.google.android.support\wearable\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="58b928ccbaf9090c632f278d6bd31e1ae42f2457">
+        <dex dex="C:\Users\Rishuv\Documents\GitHub\BebopDronePilotingNewAPI\wear\build\intermediates\pre-dexed\debug\com.google.android.support-wearable-1.3.0_8952f61d47c4c7bc690aa8b633165a46ff9001a5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rishuv\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\Rishuv\Documents\GitHub\BebopDronePilotingNewAPI\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_42f653289c7597ca9e706388695886dc9d74fec0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rishuv\Documents\GitHub\BebopDronePilotingNewAPI\app\libs\libARMavlink.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3186b1cbfc6914f1cbe9d59cb533fcaef5f28bb1">
+        <dex dex="C:\Users\Rishuv\Documents\GitHub\BebopDronePilotingNewAPI\app\build\intermediates\pre-dexed\debug\libARMavlink_637830cda56315c3c3bacebf6d1b7522a942946c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rishuv\Documents\GitHub\BebopDronePilotingNewAPI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="C:\Users\Rishuv\Documents\GitHub\BebopDronePilotingNewAPI\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-8.4.0_756ed7423587bac8afbe66cca7e3d43895a0e62f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rishuv\Documents\GitHub\BebopDronePilotingNewAPI\wear\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="C:\Users\Rishuv\Documents\GitHub\BebopDronePilotingNewAPI\wear\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wearable-8.4.0_5edd1283a5a11606cb24db2875e81d96104c7c5c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rishuv\Documents\GitHub\BebopDronePilotingNewAPI\wear\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="C:\Users\Rishuv\Documents\GitHub\BebopDronePilotingNewAPI\wear\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-8.4.0_b12a8a6a0f95a347748f84c06a059c38a1f688a0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rishuv\Documents\GitHub\BebopDronePilotingNewAPI\myapplication\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="C:\Users\Rishuv\Documents\GitHub\BebopDronePilotingNewAPI\myapplication\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wearable-8.4.0_06bd530f89bfdfbd36722d6becf637883506f803.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rishuv\Documents\GitHub\BebopDronePilotingNewAPI\wear\build\intermediates\exploded-aar\com.google.android.support\wearable\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="58b928ccbaf9090c632f278d6bd31e1ae42f2457">
+        <dex dex="C:\Users\Rishuv\Documents\GitHub\BebopDronePilotingNewAPI\wear\build\intermediates\pre-dexed\debug\com.google.android.support-wearable-1.3.0_8952f61d47c4c7bc690aa8b633165a46ff9001a5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rishuv\Documents\GitHub\BebopDronePilotingNewAPI\app\libs\libARNetwork.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c4d57d7cf20a4c7649dfa2e047e84bc2e9f06036">
+        <dex dex="C:\Users\Rishuv\Documents\GitHub\BebopDronePilotingNewAPI\app\build\intermediates\pre-dexed\debug\libARNetwork_bf04960a85578392e70c036dfc1186185d13b68f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rishuv\Documents\GitHub\BebopDronePilotingNewAPI\app\libs\libARUtils.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="45641c187cbf1792a080e5cbadfc05b70ea5c483">
+        <dex dex="C:\Users\Rishuv\Documents\GitHub\BebopDronePilotingNewAPI\app\build\intermediates\pre-dexed\debug\libARUtils_8027c66cfce19b9477077fe4dd1489ac09399b3c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rishuv\Documents\GitHub\BebopDronePilotingNewAPI\app\libs\libARUpdater.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="74e261f74c121ea988853fcdb247468bb351a132">
+        <dex dex="C:\Users\Rishuv\Documents\GitHub\BebopDronePilotingNewAPI\app\build\intermediates\pre-dexed\debug\libARUpdater_82b8ec53f48981582e6cd953aac63a9bc65ede59.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rishuv\Documents\GitHub\BebopDronePilotingNewAPI\wear\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="C:\Users\Rishuv\Documents\GitHub\BebopDronePilotingNewAPI\wear\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-22.0.0_b6fd20413482ec6beff15eb0a661598708b226ce.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rishuv\Documents\GitHub\BebopDronePilotingNewAPI\myapplication\build\intermediates\exploded-aar\com.google.android.support\wearable\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="58b928ccbaf9090c632f278d6bd31e1ae42f2457">
+        <dex dex="C:\Users\Rishuv\Documents\GitHub\BebopDronePilotingNewAPI\myapplication\build\intermediates\pre-dexed\debug\com.google.android.support-wearable-1.3.0_4c3f8eb9edb12e320a485065c5a3872f945a2d1e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rishuv\Documents\GitHub\BebopDronePilotingNewAPI\wear\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Users\Rishuv\Documents\GitHub\BebopDronePilotingNewAPI\wear\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.4.0_4850b6d89805048d63160079f859155a44b14eab.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rishuv\Documents\GitHub\BebopDronePilotingNewAPI\wear\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Users\Rishuv\Documents\GitHub\BebopDronePilotingNewAPI\wear\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_b0bcc3ac5c23bfe4558c6497c9831ce3620266ab.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rishuv\Documents\GitHub\BebopDronePilotingNewAPI\wear\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="C:\Users\Rishuv\Documents\GitHub\BebopDronePilotingNewAPI\wear\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-8.4.0_b12a8a6a0f95a347748f84c06a059c38a1f688a0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rishuv\Documents\GitHub\BebopDronePilotingNewAPI\app\libs\libARController.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="191b8ae24586fba68e16a46daeb7eb89e42c7fa5">
+        <dex dex="C:\Users\Rishuv\Documents\GitHub\BebopDronePilotingNewAPI\app\build\intermediates\pre-dexed\debug\libARController_4886ba75431c20af30c2a7a7d21c3a289c5f2636.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rishuv\Documents\GitHub\BebopDronePilotingNewAPI\app\libs\libARSAL.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9e90c4a832a34cfc7ab989983c72b49eaf50d659">
+        <dex dex="C:\Users\Rishuv\Documents\GitHub\BebopDronePilotingNewAPI\app\build\intermediates\pre-dexed\debug\libARSAL_a66a8f3056ab3db31c0c367733723752d27b4557.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rishuv\Documents\GitHub\BebopDronePilotingNewAPI\app\libs\libARCommands.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d955bc6cfada4980d590a4bc149cdebb6bd5e144">
+        <dex dex="C:\Users\Rishuv\Documents\GitHub\BebopDronePilotingNewAPI\app\build\intermediates\pre-dexed\debug\libARCommands_d490e65c0dd4c82f0105111ffc1e2fc86dd01305.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rishuv\Documents\GitHub\BebopDronePilotingNewAPI\wear\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="C:\Users\Rishuv\Documents\GitHub\BebopDronePilotingNewAPI\wear\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-22.0.0_b6fd20413482ec6beff15eb0a661598708b226ce.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rishuv\Documents\GitHub\BebopDronePilotingNewAPI\app\libs\jmdns.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="131496748e558a22cee4cbdd1da3cd5355d514be">
+        <dex dex="C:\Users\Rishuv\Documents\GitHub\BebopDronePilotingNewAPI\app\build\intermediates\pre-dexed\debug\jmdns_32b49aa81b27207c8b8b1a611cd365cabf7f8c24.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rishuv\Documents\GitHub\BebopDronePilotingNewAPI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Users\Rishuv\Documents\GitHub\BebopDronePilotingNewAPI\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.4.0_e027465216bf99bdc1ae0e9f2cbfd01c24aa07e1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rishuv\Documents\GitHub\BebopDronePilotingNewAPI\wear\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Users\Rishuv\Documents\GitHub\BebopDronePilotingNewAPI\wear\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.4.0_4850b6d89805048d63160079f859155a44b14eab.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rishuv\Documents\GitHub\BebopDronePilotingNewAPI\wear\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Users\Rishuv\Documents\GitHub\BebopDronePilotingNewAPI\wear\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_b0bcc3ac5c23bfe4558c6497c9831ce3620266ab.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rishuv\Documents\GitHub\BebopDronePilotingNewAPI\wear\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Users\Rishuv\Documents\GitHub\BebopDronePilotingNewAPI\wear\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.0_0d6a0ea95969c5d53b3416cd87752642c8ea5494.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rishuv\Documents\GitHub\BebopDronePilotingNewAPI\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\Rishuv\Documents\GitHub\BebopDronePilotingNewAPI\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_f88799d78adc163b7f14731444d6c7bb886bdd9d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rishuv\Documents\GitHub\BebopDronePilotingNewAPI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="C:\Users\Rishuv\Documents\GitHub\BebopDronePilotingNewAPI\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wearable-8.4.0_83c5d2c693e59becf7d1f70309fa9fb64b3a38c8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rishuv\Documents\GitHub\BebopDronePilotingNewAPI\app\libs\libARNetworkAL.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0dd9c7c9f038c74c6bba2795c8ed7095092a3a41">
+        <dex dex="C:\Users\Rishuv\Documents\GitHub\BebopDronePilotingNewAPI\app\build\intermediates\pre-dexed\debug\libARNetworkAL_a48a32d5cb6de3c20102fb04d32cb9bfdc5169e1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rishuv\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\Users\Rishuv\Documents\GitHub\BebopDronePilotingNewAPI\wear\build\intermediates\pre-dexed\debug\support-annotations-23.0.0_2aaddb5f6403458f7341e15354945a2bef3f9356.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rishuv\Documents\GitHub\BebopDronePilotingNewAPI\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\Rishuv\Documents\GitHub\BebopDronePilotingNewAPI\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_f43587dc19b50d5291208ac9894fee7869553aa6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rishuv\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\Users\Rishuv\Documents\GitHub\BebopDronePilotingNewAPI\wear\build\intermediates\pre-dexed\debug\support-annotations-23.0.0_2aaddb5f6403458f7341e15354945a2bef3f9356.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rishuv\Documents\GitHub\BebopDronePilotingNewAPI\myapplication\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\Rishuv\Documents\GitHub\BebopDronePilotingNewAPI\myapplication\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_14162d1ca9ab48bc8ac9e579cd007327a02e144f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rishuv\Documents\GitHub\BebopDronePilotingNewAPI\app\libs\libARDataTransfer.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="bae1a443440edd9c85462df09a60829d3e370dcb">
+        <dex dex="C:\Users\Rishuv\Documents\GitHub\BebopDronePilotingNewAPI\app\build\intermediates\pre-dexed\debug\libARDataTransfer_5cc58dddf75404374fa961289be23ed6b94cf4d2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rishuv\Documents\GitHub\BebopDronePilotingNewAPI\wear\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Users\Rishuv\Documents\GitHub\BebopDronePilotingNewAPI\wear\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.0_0d6a0ea95969c5d53b3416cd87752642c8ea5494.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rishuv\Documents\GitHub\BebopDronePilotingNewAPI\myapplication\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\Rishuv\Documents\GitHub\BebopDronePilotingNewAPI\myapplication\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_71e2b920eca05ec2e57e1fe8bb59af7c4f081d01.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rishuv\Documents\GitHub\BebopDronePilotingNewAPI\myapplication\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\Rishuv\Documents\GitHub\BebopDronePilotingNewAPI\myapplication\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_2c2197071ab8f26cdd6d21c1aa88204842116871.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rishuv\Documents\GitHub\BebopDronePilotingNewAPI\wear\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="C:\Users\Rishuv\Documents\GitHub\BebopDronePilotingNewAPI\wear\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wearable-8.4.0_5edd1283a5a11606cb24db2875e81d96104c7c5c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rishuv\Documents\GitHub\BebopDronePilotingNewAPI\myapplication\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Users\Rishuv\Documents\GitHub\BebopDronePilotingNewAPI\myapplication\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.4.0_0324164f8d125ecf9a932ac10ef00d6296b7cccc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rishuv\Documents\GitHub\BebopDronePilotingNewAPI\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\Rishuv\Documents\GitHub\BebopDronePilotingNewAPI\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_c606aaf78c0ad6c72ff32a9e36fb4a95dcccfc57.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rishuv\Documents\GitHub\BebopDronePilotingNewAPI\myapplication\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="C:\Users\Rishuv\Documents\GitHub\BebopDronePilotingNewAPI\myapplication\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-8.4.0_de2671935974a2eded9c0f84abdde8950b98feb0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rishuv\Documents\GitHub\BebopDronePilotingNewAPI\app\libs\libARMedia.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ab2623d685513775e53abc44126a636a8e14fe74">
+        <dex dex="C:\Users\Rishuv\Documents\GitHub\BebopDronePilotingNewAPI\app\build\intermediates\pre-dexed\debug\libARMedia_7727e8af5b02bd11f646d40e7b3fe7e84a07e570.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rishuv\Documents\GitHub\BebopDronePilotingNewAPI\app\libs\libARStream.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5fcd5ff98a16e53588d884d97b44424d88a242a8">
+        <dex dex="C:\Users\Rishuv\Documents\GitHub\BebopDronePilotingNewAPI\app\build\intermediates\pre-dexed\debug\libARStream_e4968f3222652034835a899e4d9dc159c7e1f7d9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rishuv\Documents\GitHub\BebopDronePilotingNewAPI\myapplication\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="C:\Users\Rishuv\Documents\GitHub\BebopDronePilotingNewAPI\myapplication\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-22.0.0_3cff71d484ca3251a6c273aec7ef31ad12ca1336.jar" />
+    </item>
+
+</items>

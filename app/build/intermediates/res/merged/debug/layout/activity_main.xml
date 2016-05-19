@@ -1,0 +1,305 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin" tools:context=".MainActivity">
+
+    <ListView
+        android:id="@+id/list"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:layout_alignBottom="@+id/endCordinateValuesid">
+    </ListView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Pitch"
+        android:id="@+id/pitchid"
+        android:layout_below="@+id/steadyid"
+        android:layout_alignLeft="@+id/Registryid"
+        android:layout_alignStart="@+id/Registryid"
+        android:layout_marginTop="16dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Yaw"
+        android:id="@+id/yawid"
+        android:layout_below="@+id/pitchid"
+        android:layout_alignLeft="@+id/Registryid" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Roll"
+        android:id="@+id/rollid"
+        android:layout_below="@+id/yawid"
+        android:layout_alignLeft="@+id/Registryid" />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="SeekbarText"
+        android:id="@+id/seekBarTextid"
+        android:layout_below="@+id/seekBarForExtremeid"
+        android:layout_centerHorizontal="true" />
+
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="AccelValueX"
+        android:id="@+id/AccelValueXid"
+        android:textAlignment="center"
+        android:layout_below="@+id/seekBarForDifferenceTextid"
+        android:layout_alignLeft="@+id/steadyid"
+        android:layout_alignStart="@+id/steadyid" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Steady"
+        android:id="@+id/steadyid"
+        android:layout_below="@+id/AccelValueZid"
+        android:layout_alignLeft="@+id/pitchid"
+        android:layout_alignStart="@+id/pitchid"
+        android:layout_marginTop="48dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Register"
+        android:id="@+id/Registryid"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="XAccelValue"
+        android:id="@+id/xAccelValueid"
+        android:layout_above="@+id/yAccelValueid"
+        android:layout_alignLeft="@+id/zAccelValueid"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="YAccelValue"
+        android:id="@+id/yAccelValueid"
+        android:layout_above="@+id/zAccelValueid"
+        android:layout_alignLeft="@+id/xAccelValueid"
+        android:layout_alignStart="@+id/xAccelValueid" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ZAccelValue"
+        android:id="@+id/zAccelValueid"
+        android:layout_alignBottom="@+id/zDistanceid"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/cordinatesInitial"
+        android:id="@+id/initialCordinateValuesid"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Cordinates End Value"
+        android:id="@+id/endCordinateValuesid"
+        android:layout_below="@+id/initialCordinateValuesid"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="8dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="xDistance"
+        android:id="@+id/xDistanceid"
+        android:layout_alignTop="@+id/steadyid"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="yDistance"
+        android:id="@+id/yDistanceid"
+        android:layout_below="@+id/xDistanceid"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="zDistance"
+        android:id="@+id/zDistanceid"
+        android:layout_below="@+id/yDistanceid"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="Button is not active"
+        android:id="@+id/buttonActiveTextViewid"
+        android:layout_above="@+id/Registryid"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="AccelValueY"
+        android:textAlignment="center"
+        android:id="@+id/AccelValueYid"
+        android:layout_below="@+id/AccelValueXid"
+        android:layout_alignRight="@+id/AccelValueXid"
+        android:layout_alignEnd="@+id/AccelValueXid"
+        android:layout_alignLeft="@+id/AccelValueXid"
+        android:layout_alignStart="@+id/AccelValueXid" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="AccelValueZ"
+        android:textAlignment="center"
+        android:id="@+id/AccelValueZid"
+        android:layout_below="@+id/AccelValueYid"
+        android:layout_alignRight="@+id/AccelValueYid"
+        android:layout_alignEnd="@+id/AccelValueYid"
+        android:layout_alignLeft="@+id/AccelValueYid"
+        android:layout_alignStart="@+id/AccelValueYid" />
+
+    <SeekBar
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/seekBarForExtremeid"
+        android:indeterminate="false"
+        android:layout_below="@+id/endCordinateValuesid"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <SeekBar
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/seekBarForStationaryDifferenceid"
+        android:indeterminate="false"
+        android:layout_below="@+id/seekBarTextid"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="seekBarForDifferenceText"
+        android:id="@+id/seekBarForDifferenceTextid"
+        android:layout_below="@+id/seekBarForStationaryDifferenceid"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Calculate"
+        android:id="@+id/actionRecorderid"
+        android:onClick="calculate"
+        android:layout_above="@+id/buttonActiveTextViewid"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Write"
+        android:id="@+id/button"
+        android:onClick="writeMedian"
+        android:layout_alignTop="@+id/actionRecorderid"
+        android:layout_alignLeft="@+id/steadyid"
+        android:layout_alignStart="@+id/steadyid" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="CloseFile"
+        android:id="@+id/closeFileButtonid"
+        android:onClick="closeFileButton"
+        android:layout_alignTop="@+id/button"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Action Steady Detect"
+        android:id="@+id/actionSteadyDetectid"
+        android:onClick="actions"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignRight="@+id/actionRecorderid"
+        android:layout_alignEnd="@+id/actionRecorderid" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="CalculateA"
+        android:id="@+id/calculateAid"
+        android:onClick="calculateNextTrial"
+        android:layout_above="@+id/actionRecorderid"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="FindMedian"
+        android:id="@+id/medianCalc"
+        android:onClick="findMedianArray"
+        android:layout_alignBaseline="@+id/calculateAid"
+        android:layout_alignBottom="@+id/calculateAid"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="add"
+        android:id="@+id/addId"
+        android:onClick="add"
+        android:layout_above="@+id/closeFileButtonid"
+        android:layout_alignLeft="@+id/closeFileButtonid"
+        android:layout_alignStart="@+id/closeFileButtonid" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="LogArray"
+        android:onClick="logArrayFromService"
+        android:id="@+id/logArrayButtonid"
+        android:layout_below="@+id/buttonActiveTextViewid"
+        android:layout_toRightOf="@+id/endCordinateValuesid"
+        android:layout_toEndOf="@+id/endCordinateValuesid" />
+
+
+</RelativeLayout>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.rishuv.myapplication.MainActivity"
+    tools:deviceIds="wear_round">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="GyroValue"
+        android:id="@+id/gyroValueid"
+        android:layout_above="@+id/accelValueid"
+        android:layout_alignStart="@+id/accelValueid"
+        android:layout_marginBottom="54dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="accelValue"
+        android:id="@+id/accelValueid"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="52dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Gyro"
+        android:id="@+id/GyroTitleid"
+        android:layout_above="@+id/gyroValueid"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Accelerometer"
+        android:id="@+id/accelTitleid"
+        android:layout_above="@+id/accelValueid"
+        android:layout_centerHorizontal="true" />
+</RelativeLayout>

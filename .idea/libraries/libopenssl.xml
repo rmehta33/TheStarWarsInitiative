@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="libopenssl">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/libopenssl.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
